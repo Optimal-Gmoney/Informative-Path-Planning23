@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [MATLAB Simulation](#matlab-simulation)
+3. [Sources](sources-used)
 
 ### General Info
 ***
@@ -25,3 +26,8 @@ The visualization contains six figures in total, five of which are updated conti
 *  Global Planner Path to Goal (bottom-left figure): shows how the A-Star algorithm generates a path to an unexplored region after the local planner is deactivated and there still exists regions to explore.
 *  Expansion Model Update 5X5 (bottom-middle figure): Mobile Robot's zoomed in point of view of the expansion map.
 *  All Time Poses of Robot (bottom-right figure): shows the path that the mobile robot takes to explore the unknown map, and it is refreshed every time the IPP algorithm switches between the global and local planner.
+
+### Sources Used
+***
+
+The [Traditional A-Star Algorithm coded by Alex Ranaldi](https://github.com/alexranaldi/A_STAR#readme) was obtained from GitHub and adapted for use in the IPP algorithm.
