@@ -30,4 +30,4 @@ The visualization contains six figures in total, five of which are updated conti
 ### Sources Used
 ***
 
-The [Traditional A-Star Algorithm coded by Alex Ranaldi](https://github.com/alexranaldi/A_STAR#readme) was obtained from GitHub and adapted for use in the IPP algorithm.
+The [Traditional A-Star Algorithm coded by Alex Ranaldi](https://github.com/alexranaldi/A_STAR.git) was obtained from GitHub and adapted for use in the IPP algorithm.
