@@ -18,7 +18,7 @@ The IPP algorithm is shown in a YouTube video [Youtube video](https://youtu.be/F
  ### Screenshot
 ![Image text](matlab-simulation-video.PNG)
 
-The visualization contains six figures in total, five of which are updated continuously. A description of each of the figures is described as follows:
+The visualization contains three figures in total, two of which are updated continuously. A description of each of the figures is described as follows:
 
 * Ground-Truth Map (top-left figure): shows the map that the mobile robot needs to explore, which it does not know anything about.
 *  Egocentric Map (top-middle figure): shows the map that the mobile robot updates as it explores the unknown map.
