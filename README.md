@@ -13,7 +13,7 @@ In order to assess the efficacy and computational efficiency of the IPP algorith
 
 ## MATLAB Simulation
 ***
-The IPP algorithm is shown in a YouTube video [Youtube video](https://www.youtube.com/watch?v=P-ti5xr7GrM) exploring an uknown 2D ground-truth map. The video has a playback speed that is four times faster than the original simulation. It is noteworthy that the IPP algorithm was able to explore the map in 4.59 seconds without the visual aid presented in the video. With the visualization, the IPP algorithm takes more than 20 minutes to explore the map.
+The IPP algorithm is shown in a YouTube video [Youtube video](https://www.youtube.com/watch?v=P-ti5xr7GrM) exploring an uknown 2D ground-truth map. The video has a playback speed that is four times faster than the original simulation. It is noteworthy that the IPP algorithm was able to explore the map in 4.59 seconds without the visual aid presented in the video. With the visualization, the IPP algorithm takes about 9 minutes to explore the map.
  
  ### Screenshot
 ![Image text](matlab-simulation-video.PNG)
